@@ -1,4 +1,4 @@
-# My-data-visualization-works-on-Tableau
+# My data visualization projects on Tableau.
 Hello everyone!
 
 If you've reviewed my NYC Airbnb dataset work on Jupyter Notebook, please take a moment to explore my visualizations on Tableau.
